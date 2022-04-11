@@ -27,7 +27,6 @@ class SettingActivity : AppCompatActivity() {
     private var bdInfoList: ArrayList<BdInfo> = ArrayList()
     private var bdStartMap: HashMap<String, Boolean> = HashMap<String, Boolean>()
     private var addBdDialog: DialogAddBroadcastReceiver? = null
-    private val charSetList = ArrayList<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
