@@ -1,0 +1,2 @@
+rootProject.name = "DEBUG_UDP_CAT"
+include ':app'

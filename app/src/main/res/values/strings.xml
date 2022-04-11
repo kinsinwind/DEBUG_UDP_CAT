@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UDP_CAT</string>
+    <string name="setting">设置</string>
+    <string name="input_target_ip">请输入对方的ip</string>
+    <string name="confirm">应用</string>
+    <string name="input_send_port">请输入发送端口</string>
+    <string name="input_receive_port">请输入接收端口</string>
+    <string name="start_receive_server">开启接收服务</string>
+    <string name="add_broadcast_receiver">添加广播接收器</string>
+    <string name="set_send_data_charset">设置发送数据的字符集</string>
+    <string name="receive_area">接收区</string>
+    <string name="send_area">发送区</string>
+    <string name="clear">清除</string>
+    <string name="send">发送</string>
+    <string name="input_broadcast_action_example_1">请输入广播Action，如com.kinsin.test</string>
+    <string name="input_filter_example_1">清输入过滤词（不填为不过滤），多个以#分割，如：debug#release</string>
+    <string name="add">添加</string>
+    <string name="cancel">取消</string>
+    <string name="action_is_not_empty">Action不能为空</string>
+    <string name="ip_text">ip: </string>
+    <string name="not_set_now">尚未设置</string>
+    <string name="send_port_text">发送端口: </string>
+    <string name="receive_port_text">"接收端口: "</string>
+    <string name="local_ip_text">本机IP：</string>
+    <string name="ip_not_empty">ip不能为空</string>
+    <string name="send_port_not_empty">发送端口不能为空</string>
+    <string name="receive_port_not_empty">接收端口不能为空</string>
+    <string name="need_internet_permission">请先授予网络权限</string>
+    <string name="stop_receive_server">停止接收服务</string>
+    <string name="please_modify_in_pause_state">请先暂停后修改</string>
+    <string name="please_delete_in_pause_state">请先暂停后删除</string>
+</resources>
